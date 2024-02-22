@@ -1,0 +1,44 @@
+.circle {
+  border-radius: 50%;
+}
+
+div {
+  height: 50px;
+  width: 50px;
+  background-color: lime;
+  margin: 8px auto;
+  border-radius: 10px;
+}
+
+section {
+  background-color: darkblue;
+  padding: 20px;
+  border: 10px dotted white;
+  margin: 25px;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+.medium {
+  height: 75px;
+  width: 75px;
+}
+
+.large {
+  height: 100px;
+  width: 100px;
+}
+
+#square-section {
+  background-color: rebeccapurple;
+}
+
+#circle-section {
+  height: 500px;
+}
+
+.burlywood {
+  background-color: burlywood;
+}
